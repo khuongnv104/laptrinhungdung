@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\QuanLyDiem\QuanLyDiemHocSinh\QuanLyDiemHocSinh\bin\Debug\QuanLyDiemHocSinh.exe.config
+C:\Users\Admin\Documents\QuanLyDiem\QuanLyDiemHocSinh\QuanLyDiemHocSinh\bin\Debug\QuanLyDiemHocSinh.exe
+C:\Users\Admin\Documents\QuanLyDiem\QuanLyDiemHocSinh\QuanLyDiemHocSinh\bin\Debug\QuanLyDiemHocSinh.pdb
+C:\Users\Admin\Documents\QuanLyDiem\QuanLyDiemHocSinh\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\QuanLyDiem\QuanLyDiemHocSinh\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.frmDangNhap.resources
+C:\Users\Admin\Documents\QuanLyDiem\QuanLyDiemHocSinh\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.frmQLHocSinh.resources
+C:\Users\Admin\Documents\QuanLyDiem\QuanLyDiemHocSinh\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.frmMain.resources
+C:\Users\Admin\Documents\QuanLyDiem\QuanLyDiemHocSinh\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.Properties.Resources.resources
+C:\Users\Admin\Documents\QuanLyDiem\QuanLyDiemHocSinh\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\QuanLyDiem\QuanLyDiemHocSinh\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\QuanLyDiem\QuanLyDiemHocSinh\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.exe
+C:\Users\Admin\Documents\QuanLyDiem\QuanLyDiemHocSinh\QuanLyDiemHocSinh\obj\Debug\QuanLyDiemHocSinh.pdb
